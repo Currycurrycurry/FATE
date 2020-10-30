@@ -39,6 +39,7 @@ You can see the following package:
 - fateboard.tar.gz
 - fate.env
 - packages_md5.txt
+- proxy.tar.gz
 - python.tar.gz
 - RELEASE.md
 - requirements.txt
@@ -52,6 +53,7 @@ You can see the following package:
 | fateboard.tar.gz | fateboard packages|
 | fate.env | settings for version|
 | packages_md5.txt | md5 numbers for each package|
+| proxy.tar.gz | proxy files|
 | python.tar.gz | include federatedml and fate flow|
 | RELEASE.md | release document|
 | requirements.txt | necessary dependency for python environment|
